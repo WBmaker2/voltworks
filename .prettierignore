@@ -1,0 +1,9 @@
+node_modules
+dist
+test-results
+playwright-report
+coverage
+.playwright-mcp
+IMPLEMENTATION_PLAN.md
+package-lock.json
+public/icons
